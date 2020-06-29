@@ -6,25 +6,25 @@ Are Healthy Restaurants Healthy?
 What Gender/Age Groups do Healthy Restaurants Cater to?
 Which Restaurant is Healthiest?
 
-Contributors: Esaa Yamini, Juan Sebastian Galindo, Avantika Singh, Darren Lucca, Tommy Ringo
+[Contributors: Esaa Yamini, Juan Sebastian Galindo, Avantika Singh, Darren Lucca, Tommy Ringo]
 
 # **Restaurants?**
 
 ![Images](Images/Picture1.png)
 
-Five "Healthy" restaurant chains were selected in Austin, Texas.
+Five local "Healthy" restaurant chains were selected in Austin, Texas.
 Each restaurant’s top 7 menu items compared against the other.
 Menu items scored based on FDA recommended amounts of 14 nutrients:
-  [SATURATED FAT – TRANS FAT – TOTAL FAT – SUGARS – CARBOHYDRATES – PROTEIN – CHOLESTEROL – VITAMIN C – VITAMIN A – SODIUM – IRON – CALCIUM – FIBER – CALORIES]
+  [SATURATED FAT – TRANS FAT – TOTAL FAT – SUGARS – CARBOHYDRATES – PROTEIN – CHOLESTEROL – VITAMIN C – VITAMIN A – SODIUM – IRON – CALCIUM – FIBER & CALORIES]
   
-Restaurants scored based on cumulative score of their top 7 menu items.  A perfect restaurant score is 98.  
+Restaurants scored based on cumulative score of their top 7 menu items.  A perfect restaurant score is 98. (14xnutrients, 7xmenu items) 
 
 
 # **Data Retrieval**
 
 ![Images](Images/Picture3.png)
 
-Data was pulled from the Nutritionix API (https://www.nutritionix.com/business/api) and compared against FDA standards.
+Data was pulled from the Nutritionix API (https://www.nutritionix.com/business/api) and compared against FDA recommended dietary values.
 
 
 # **Data Processing**
@@ -38,7 +38,7 @@ Data was cleansed and processed using Pandas. Nutrient values were extracted fro
 
 ![Images](Images/Picture6.png)
 
-Restaurants were scored based on how closely their menu items met FDA recommendations for males and females aged (19+). Here's how each restaurant scored by gender and age group.
+Restaurants were scored based on how closely their menu items met FDA recommendations for males and females aged (19+). Here's how each restaurant fared...
 
 
 ![Images](Images/Picture7.png)
