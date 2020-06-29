@@ -13,9 +13,11 @@ Which Restaurant is Healthiest?
 ![Images](Images/Picture1.png)
 
 Five local "Healthy" restaurant chains were selected in Austin, Texas.
+
 Each restaurant’s top 7 menu items compared against the other.
+
 Menu items scored based on FDA recommended amounts of 14 nutrients:
-  [SATURATED FAT – TRANS FAT – TOTAL FAT – SUGARS – CARBOHYDRATES – PROTEIN – CHOLESTEROL – VITAMIN C – VITAMIN A – SODIUM – IRON – CALCIUM – FIBER & CALORIES]
+  [SATURATED FAT – TRANS FAT – TOTAL FAT – SUGARS – CARBOHYDRATES – PROTEIN – CHOLESTEROL – VITAMIN C – VITAMIN A – SODIUM – IRON – CALCIUM – FIBER - CALORIES]
   
 Restaurants scored based on cumulative score of their top 7 menu items.  A perfect restaurant score is 98. (14xnutrients, 7xmenu items) 
 
@@ -49,7 +51,8 @@ And "The Healthiest" is...,
 
 ![Images](Images/Picture8.png)
 
-Smoothie King’s top 7 menu items had the highest nutrition scores regardless of gender or age.  
+Smoothie King’s top 7 menu items had the highest nutrition scores regardless of gender or age. 
+
 Smoothie King is The Healthiest!!
 
 
