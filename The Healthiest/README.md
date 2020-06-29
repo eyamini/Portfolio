@@ -15,7 +15,8 @@ Contributors: Esaa Yamini, Juan Sebastian Galindo, Avantika Singh, Darren Lucca,
 Five "Healthy" restaurant chains were selected in Austin, Texas.
 Each restaurant’s top 7 menu items compared against the other.
 Menu items scored based on FDA recommended amounts of 14 nutrients:
-  SATURATED FAT – TRANS FAT – TOTAL FAT – SUGARS – CARBOHYDRATES – PROTEIN – CHOLESTEROL – VITAMIN C – VITAMIN A – SODIUM – IRON – CALCIUM – FIBER – CALORIES  
+  [SATURATED FAT – TRANS FAT – TOTAL FAT – SUGARS – CARBOHYDRATES – PROTEIN – CHOLESTEROL – VITAMIN C – VITAMIN A – SODIUM – IRON – CALCIUM – FIBER – CALORIES]
+  
 Restaurants scored based on cumulative score of their top 7 menu items.  A perfect restaurant score is 98.  
 
 
@@ -44,7 +45,7 @@ Restaurants were scored based on how closely their menu items met FDA recommenda
 
 # **Conclusion**
 
-And The "Healthiest"..., 
+And "The Healthiest" is..., 
 
 ![Images](Images/Picture8.png)
 
