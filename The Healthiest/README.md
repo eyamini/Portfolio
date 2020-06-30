@@ -14,12 +14,12 @@ Which Restaurant is Healthiest?
 
 Five local "Healthy" restaurant chains were selected in Austin, Texas.
 
-Each restaurant’s top 7 menu items compared against the other.
+Each restaurant’s top 7 menu items were compared against the others.
 
-Menu items scored based on FDA recommended amounts of 14 nutrients:
+Menu items were scored based on FDA recommended amounts of 14 key nutrients:
   [SATURATED FAT – TRANS FAT – TOTAL FAT – SUGARS – CARBOHYDRATES – PROTEIN – CHOLESTEROL – VITAMIN C – VITAMIN A – SODIUM – IRON – CALCIUM – FIBER - CALORIES]
   
-Restaurants scored based on cumulative score of their top 7 menu items.  A perfect restaurant score is 98. (14xnutrients, 7xmenu items) 
+Restaurant's overall score based on cumulative score of top 7 menu items.  A perfect restaurant score is 98. (14xnutrients x 7xmenu items) 
 
 
 # **Data Retrieval**
