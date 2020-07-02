@@ -16,7 +16,7 @@ Five local "Healthy" restaurant chains were selected in Austin, Texas.
 
 Each restaurant’s top 7 menu items were compared against the others.
 
-Menu items were scored based on FDA recommended amounts of 14 key nutrients:
+Menu items were scored based on FDA recommended amounts of 14 values:
   [SATURATED FAT – TRANS FAT – TOTAL FAT – SUGARS – CARBOHYDRATES – PROTEIN – CHOLESTEROL – VITAMIN C – VITAMIN A – SODIUM – IRON – CALCIUM – FIBER - CALORIES]
   
 Restaurant's overall score based on cumulative score of top 7 menu items.  A perfect restaurant score is 98. (14xnutrients x 7xmenu items) 
