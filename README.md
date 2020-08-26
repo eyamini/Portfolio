@@ -1,6 +1,6 @@
-# **Portfolio**
+# **My Portfolio**
 
-A compilation of Esaa Yamini's work.
+A compilation of my data analyic and visualization work.
 
 
 ![Images](Images/Picture1.png)
