@@ -1,6 +1,6 @@
 # **My Portfolio**
 
-Visit https://eyamini.github.io/ for an interactive compilation of my data analyic and visualization work as well as resume download.
+Visit https://eyamini.github.io/ for an interactive portfolio of data analyical and visualization work as well as resume download.
 
 
 ![Images](Images/Picture1.png)
